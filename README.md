@@ -1,7 +1,7 @@
-*500 Lines or Less*
+*Pocket Distributer*
 ===================
 
-Tools to set pocket article to kindle
+A tool to set pocket article to kindle
 
 Mission
 -------
