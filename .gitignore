@@ -15,6 +15,7 @@ parts/
 sdist/
 var/
 *.egg-info/
+venv/
 
 # IDE cache
 .idea/
